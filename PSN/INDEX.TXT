@@ -1,0 +1,131 @@
+1996 Hungary
+  -028 Maxima Suma {Tabla Acumulativa}
+  
+1997 Africa
+  -008 Nets {Componentes Fuertemente Conexas (SCC)} 
+
+1999 Turquia
+  -009 Nets {Componentes Fuertemente Conexas (SCC)} 
+  -029 Compre barato y Compre mas barato {Catcher}
+  -055 Cortando Rectángulos {Algoritmo Dinámico}
+  -061 Barcos {Catcher}
+  -070 Gangsters {Catcher}
+  -076 Caminos {Dijkstra Dinámico (con Heap) !!!}
+  -123 Apilando Neveras {Matrix Chain Multiplication}
+  -127 Números de teléfono {Mochila}
+
+2000 China
+  -048 EL camino de Eric {Bfs}
+  -066 Faenas {Ordenamiento Topologico}
+
+2001 Finlandia
+  -001 Palíndrome {Longest Common Subsequence}
+  -039 Escaleras {Memoization}
+  -054 El Cuadrado Maximo {Tabla Acumulativa}
+  -068 Agentes {Bfs}
+  -070 Comprando Frutas {Mochila}
+
+2002 Korea
+  -028 Diga Cheese {Ford \ Dijkstra}
+  -030 El nuevo juguete de Melany {Prim}
+  -065 Prefijo en dos palabras {Trie}
+  -066 Comida Olimpica
+  -071 Tubería para el organopónico {Mochila}
+  -076 Mapa de Densidad {Tabla Acumulativa}
+  -102 Agentes {Bfs}
+  -112 Soldados
+
+2003 Usa
+  -045 Kola {Greedy} 
+  -062 Tunel {Busqueda Binaria}
+  -098 Carrera Callejera {Puntos de Articulación}
+
+2004 Grecia
+  -032 Exchange {Greedy} 
+  -081 Palin {Matrix Chain Multiplication}
+  -087 Búsqueda {Bfs}
+  -099 Red de Escuelas {Componentes Fuertemente Conexas (SCC)} 
+
+2005 Polonia
+  -015 Amistades durante la Copa {Puntos de Articulación}
+  -017 Olimpiada
+  -018 Adquisición de Partes {Dijkstra}
+  -025 Similitud Vacuna
+  -045 Verificando una coartada {Dijkstra}
+  -046 Sin Heno {Kruscal}
+  -057 Cacería de Miranda {N Dijkstras(con Heap)}
+  -070 Niz {Kmp o Brute Force}
+  -085 Vendra la muerte y tendra tus ojos {Metodo de Inclusion y Exclusion}
+  -094 Aplilamiento de Platos {Catcher}
+  -106 Area de Esquí Vacuna {Componentes Fuertemente Conexas (SCC)}
+
+2006 Mexico
+  -008 Extraer Subsecuencia {Catcher}
+  -009 Descifrar el mensaje {Mochila}
+  -045 Suma Máxima {Tabla Acumulativa}
+  -049 Las Torres Gemelas {Longest Common Subsequence} 
+  -066 Mooo {Memoization}
+  -097 Paseo Vespertino {Bfs}
+  -098 Marcas Radar
+  -128 Big Mean {RMQ o Segment Tree (con Big Num)}
+  
+2007 Croacia
+  -009 Secuencias Musicales {Brute Force}
+  -010 Configuraciones de Teclado {Greedy}
+  -011 Estante de Altura Minima {Dinámica}
+  -013 Filtro
+  -014 Lamparas
+  -016 Módulo
+  -019 Slikar {Bfs}
+  -026 Configuraciones de Teclado II {Memoization}
+  -027 Kola {Greedy}
+  -031 Ataque de Ratas {Tabla Acumulativa}
+  -035 Sucesión de potencias de 10 {O(n)}
+  -038 Balanced Lineup {Memoization}
+  -046 Lexicon Vacuno {Mochila}
+  -048 Fiesta Vacuna {Dos Dijkstra}
+  -049 Tareas {Sweep Line}
+  -058 Espectáculo Pirotécnico
+  -086 Los contrabandistas {Dos Dijkstra (con Heap)}
+  -104 Catch That Cow {Bfs}
+  -106 Solitario Vacuno {Bfs}
+  -107 Jardín de Flores
+  -109 Fiesta Vacuna Bronce {Dijkstra}
+
+2008 Egipto
+  -001 Aliens {Búsqueda Binaria}
+  -007 Reconstruir imagen
+  -009 Pantalla Gigante {Heap Sort}
+  -010 Permutaciones {Trabajo con combinatoria con repeticiones}
+  -011 Sensor {BFS}
+  -012 Aislantes {Dinámica estilo Catcher}
+  -015 Robot {Dfs}  
+  -016 Subsecuencia Palíndrome más larga {Longest Common Subsequence}
+  -017 Permutaciones ordenadas lexicográficamente {...combinatoria sin repeticones}
+  -018 Suma N {Combinatoria}
+  -019 Suburbios {Trabajo con Log10}
+  -020 Número Oculto
+  -021 Puntos Incidentales {Geometría}
+  -022 Mayor Submatriz Completa de unos
+  -023 Hueco primo	
+  -025 Estomatología Marciana {Dinámica}
+  -026 Estadísticas
+  -027 Haciendo un Lago
+  -028 Ah Esos Rodillos {N^2}
+  -029 La Empacadora Repugnante de Heno {Bfs Easy}
+  -030 Viaje Vacuno {Dinámica}
+  -031 Cruce de Río {Dinámica}
+  -033 Trote Vacuno {K-ésimo Camino Minímo}
+  -034 Emparejando Perlas
+  -036 Nuevo Sensor {Bfs}
+  -038 Oferta de Compras {Dinámica}
+  -040 Juego de Letras {Combinatoria con Búsqueda Binaria}
+  -041 Línea del Horizonte
+  -042 Ruta del Cartero una sola vez {Dijkstra}
+  -046 Cacería de Miranda {N Dijkstras(con Heap)}
+  -047 Cow Exhibition {Mochila}
+  -048 Milking Grid {Kmp}
+  -053 Parking
+  -054 Semafori
+
+--------------------------------------------------
